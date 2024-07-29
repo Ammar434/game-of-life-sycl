@@ -9,8 +9,7 @@
 
 <h2>Demo</h2>
 
-https://github.com/user-attachments/assets/c60ca9b8-f7b8-404c-8b58-85479032be97
-
+https://github.com/user-attachments/assets/0b7f68f5-4c87-404e-a8ff-fb904fdc002b
 <hr>
 
 <h2>🚀 Features</h2>
