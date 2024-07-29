@@ -1,12 +1,15 @@
 <h1>Smooth Game of Life Simulation</h1>
 <div align="center">
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/Made%20with-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B" alt="Made with C++"></a>
+<br>
 <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions welcome">
 <a href="https://github.com/yourusername/gameoflife-simulation/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
 </div>
 
 <h2>Demo</h2>
+
+https://github.com/user-attachments/assets/c60ca9b8-f7b8-404c-8b58-85479032be97
 
 <hr>
 
